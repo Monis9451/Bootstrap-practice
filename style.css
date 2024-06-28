@@ -1,6 +1,13 @@
-.bg-danger
+#checking
 {
-    border-radius: 10px;
-    position: relative;
-    bottom: 20px;
+    width: 10px;
+    height: 10px;
+    /* border-radius: 50%;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%); */
+}
+.btn-group button
+{
+    border-radius: 20px;
 }
