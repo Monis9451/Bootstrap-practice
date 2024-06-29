@@ -11,7 +11,8 @@
 {
     border-radius: 20px;
 }
-.test select option
+.test
 {
-    transition: 0.5s;
+    border-radius: 20px;
+    transition: 1s;
 }
